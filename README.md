@@ -6,6 +6,9 @@ Estudante de Sistemas de informação, apaixonada por tecnologia e em busca de o
 
 ![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anacatarinop&show_icons=true&theme=dracula&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacatarinop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact)
+
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
